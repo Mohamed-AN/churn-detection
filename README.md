@@ -12,4 +12,4 @@ This is the process of selecting, training, and testing different machine learni
 **4. Improving the Model:**  
 This is the process of applying various techniques to enhance the performance and robustness of the model. It can involve feature selection or extraction, ensemble methods, cross-validation, regularization, etc.  
 
-Some examples of machine learning models that can be used for churn prediction are logistic regression, decision tree, random forest, support vector machine (SVM), k-nearest neighbors (KNN), neural network, etc. In this repo I illustrate the SVC and compare it with logistic regression.
+Some examples of machine learning models that can be used for churn prediction are logistic regression, decision tree, random forest, support vector machine (SVM), k-nearest neighbors (KNN), neural network, etc. In this repo I illustrated the SVC and compare it with logistic regression.
